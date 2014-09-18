@@ -3,4 +3,4 @@ euler
 
 Learning git by solving problems.
 
-Changes new now
+I'm making Changes for azure
